@@ -44,7 +44,7 @@
 | **IntelliHire AI 🤖** | React, Node.js, AI | Resume analysis, semantic matching, AI insights | [✅ Live](https://intelli-hire-ai.vercel.app/) |
 | **AI Portfolio 🖥️** | Next.js, React, Tailwind CSS | Interactive portfolio, AI-style UI, personal branding | [✅ Live](https://bharath-kumar-k-0930.github.io/My_Portfolio_website/) |
 | **Apti Arena 🎯** | React, Firebase | Aptitude practice, MCQs, learning-focused UI | [✅ Live](https://apti-arena.vercel.app/) |
-| **EventXX 🎉** | Next.js, Tailwind, Vercel | Event management, RSVP tracking, real-time updates | [✅ Live](https://pixee-au4y.vercel.app/) |
+| **PIXEE 🎉** | Next.js, Tailwind, Vercel | Event management, RSVP tracking, real-time updates | [✅ Live](https://pixee-au4y.vercel.app/) |
 | **Matchly AI ❤️** | Next.js, React | AI-powered matching & smart recommendations | [✅ Live](https://matchly-ai.vercel.app/) |
 | **Pet Voice Translator 🐶** | Next.js, React | Fun AI experiment translating pet sounds | [✅ Live](https://pet-voice-translator.vercel.app/) |
 
