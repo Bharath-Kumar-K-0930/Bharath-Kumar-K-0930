@@ -50,7 +50,7 @@
 `Git` `GitHub` `Postman` `VS Code`
 
 ### AI Agents
-`GitHub Co-pilot` `ChatGPT 4o` `Cloude 3.0` `Cursor`
+`GitHub Co-pilot` `ChatGPT 4o` `Cloude 3.0` `Cursor`  
 `Antigravity.google` `Black Box` `Gemini`
 
 ---
