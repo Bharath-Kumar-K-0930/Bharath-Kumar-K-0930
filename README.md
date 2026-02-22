@@ -21,17 +21,37 @@
 
 ## 🛠 Tech Stack
 
-### Languages
+### 👨‍💻 Programming Languages
 `Python` `Java` `JavaScript` `SQL`
 
-### Frontend
-`React.js` `Next.js` `Tailwind CSS` `HTML5` `CSS3`
+### 🎨 Frontend Development
+`React.js` `Next.js` `Tailwind CSS` `HTML5` `CSS3`  
+`Responsive Design` `Component-Based Architecture`
 
-### Backend & Database
-`Node.js` `Firebase` `Supabase` `REST APIs`
+### ⚙ Backend Development
+`Node.js` `Express.js` `REST APIs` `Authentication Systems`
 
-### Tools & Deployment
-`Git` `GitHub` `Vercel` `Stripe`
+### 🗄 Database & Backend Services
+`Firebase` `Firestore` `Supabase` `MongoDB` `MySQL` `Neon Console`
+
+### 🤖 AI / Machine Learning
+`Sentence-Transformers (BERT)`  
+`Natural Language Processing (NLP)`  
+`Semantic Similarity Matching`  
+`PyTorch`
+
+### 💳 Integrations
+`Stripe Payments`
+
+### ☁ Deployment & Hosting
+`Vercel` `Render` `GitHub Pages`
+
+### 🛠 Developer Tools
+`Git` `GitHub` `Postman` `VS Code`
+
+### AI Agents
+`GitHub Co-pilot` `ChatGPT 4o` `Cloude 3.0` `Cursor`
+`Antigravity.google` `Black Box` `Gemini`
 
 ---
 
