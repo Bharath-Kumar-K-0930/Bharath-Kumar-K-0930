@@ -58,7 +58,7 @@ A structured aptitude and technical practice platform focused on skill improveme
 
 ---
 
-### 🎉 EventXX
+### 🎉 PIXEE
 Event management application with RSVP tracking and real-time updates.  
 **Stack:** Next.js, Tailwind CSS, Vercel  
 🔗 https://pixee-au4y.vercel.app/
